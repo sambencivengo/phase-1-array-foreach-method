@@ -27,3 +27,4 @@ oppressedWorkers.forEach(function(oppressedWorker) {
 
 // best time to use forEach() is when you need to enumerate a collection 
 // to cause some sort of 'side-effect'. 
+
